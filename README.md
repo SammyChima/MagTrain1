@@ -5,8 +5,10 @@ My first training session
 *Impacts of Statistics*
 - Trial
 - Money
-  1.
-  2.
+  
+  1. way
+  2. 
   3.
+  4.
   ---
   
