@@ -9,6 +9,5 @@ My first training session
   1. way
   2. 
   3.
-  4.
-  ---
+    
   
